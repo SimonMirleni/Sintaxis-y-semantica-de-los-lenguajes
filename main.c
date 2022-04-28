@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <ctype.h>
+
+//Simón Pedro Mirleni
+
 int main()
 {
     FILE *f;
